@@ -1,5 +1,27 @@
 # Change Log
 
-Added icon that makes sense for the theme...
+All notable changes to the "Deep Sea Blue" theme will be documented in this file.
 
-Initial Commit Made
+## [0.0.4] - 2024-01-25
+
+### Added
+
+- **New Icon**: Introduced a theme-specific icon that aligns with the "Deep Sea Blue" aesthetic, enhancing the visual appeal and recognizability of the theme.
+
+### Updated
+
+- Updated the marketplace page to include screenshots
+
+## [0.0.2 - 0.0.3] - 2024-01-25
+
+### Other
+
+- Minor changes to conform to VS Extension Marketplace Guidelines
+
+## [0.0.1] - 2024-01-25
+
+### Added
+
+- **Initial Release**: Launched "Deep Sea Blue" theme with its serene and deep ocean-inspired color palette.
+- Fundamental syntax highlighting tailored for readability and reduced eye strain.
+- Support for a wide range of programming languages and file types in VS Code.
