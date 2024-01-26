@@ -2,11 +2,13 @@
   "name": "deep-sea-blue",
   "displayName": "Deep Sea Blue",
   "description": "A dark blue theme for all of you deep sea lovers out there.",
-  "version": "0.0.1",
+  "version": "0.0.3",
+  "icon": "/ico.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/agillispie90/deep-sea-blue"
   },
+  "publisher": "AKCodeWorks",
   "license": "MIT",
   "engines": {
     "vscode": "^1.85.0"
