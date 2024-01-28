@@ -2,7 +2,13 @@
 
 All notable changes to the "Deep Sea Blue" theme will be documented in this file.
 
+## [0.0.5] - 2024-01-26
+
+- Repo address actually updated due to an error in v0.0.4
+
 ## [0.0.4] - 2024-01-25
+
+- Repo address updated.
 
 ### Added
 

@@ -26,7 +26,7 @@ Take a look at Deep Sea Blue in action!
 
 ## 📝 Feedback
 
-Your feedback and suggestions are very important! If you have any ideas or encounter any issues, please feel free to open an issue in the [GitHub repository]("https:/github.com/agillispie90/deep-sea-blue).
+Your feedback and suggestions are very important! If you have any ideas or encounter any issues, please feel free to open an issue in the [GitHub repository]("https:/github.com/akcodeworks/deep-sea-blue).
 
 ## 📘 License
 
